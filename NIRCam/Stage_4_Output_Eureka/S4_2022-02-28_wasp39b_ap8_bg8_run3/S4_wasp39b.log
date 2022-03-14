@@ -1,0 +1,60 @@
+
+Starting Stage 3 Reduction
+
+Input directory: NIRCam/Stage_2_Output/Long_Wavelength_Spectroscopy/
+Output directory: /Users/catrionamurray/Documents/Postdoc/CUBoulder/JWST_hackathon/Spectra_to_Transit/NIRCam/Stage_3_Output_Eureka/S3_2022-02-28_wasp39b_ap8_bg8_run15/
+Using ap=8, bg=8
+Copying S3 control file
+
+Found 4 data file(s) ending in calints.fits
+Reading file 1 of 4
+  Source position on detector is row 29.
+  Converting from brightness units (MJy/sr) to electrons
+  Performing background outlier rejection
+  Performing background subtraction
+  Creating figures for background subtraction
+  Performing optimal spectral extraction
+  Creating figures for optimal spectral extraction
+Reading file 2 of 4
+  Source position on detector is row 29.
+  Converting from brightness units (MJy/sr) to electrons
+  Performing background outlier rejection
+  Performing background subtraction
+  Creating figures for background subtraction
+  Performing optimal spectral extraction
+  Creating figures for optimal spectral extraction
+Reading file 3 of 4
+  Source position on detector is row 29.
+  Converting from brightness units (MJy/sr) to electrons
+  Performing background outlier rejection
+  Performing background subtraction
+  Creating figures for background subtraction
+  Performing optimal spectral extraction
+  Creating figures for optimal spectral extraction
+Reading file 4 of 4
+  Source position on detector is row 29.
+  Converting from brightness units (MJy/sr) to electrons
+  Performing background outlier rejection
+  Performing background subtraction
+  Creating figures for background subtraction
+  Performing optimal spectral extraction
+  Creating figures for optimal spectral extraction
+
+Total time (min): 28.52
+Saving results as astropy table
+Generating figure
+Saving Metadata
+
+Starting Stage 4: Generate Light Curves
+
+Input directory: /Users/catrionamurray/Documents/Postdoc/CUBoulder/JWST_hackathon/Spectra_to_Transit/NIRCam/Stage_3_Output_Eureka/S3_2022-02-28_wasp39b_ap8_bg8_run15/
+Output directory: /Users/catrionamurray/Documents/Postdoc/CUBoulder/JWST_hackathon/Spectra_to_Transit/NIRCam/Stage_4_Output_Eureka/S4_2022-02-28_wasp39b_ap8_bg8_run3/
+Copying S4 control file
+Loading S3 save file
+Sigma clipping unbinned spectral time series
+Generating light curves
+  Bandpass 0 = 2.440 - 4.000
+  Sigma clipped 0 outliers in time series
+
+Total time (min): 0.11
+Saving results

@@ -1,0 +1,12 @@
+
+Starting Stage 3 Reduction
+
+Input directory: NIRCam/Stage_2_Output/Long_Wavelength_Spectroscopy/
+Output directory: /Users/catrionamurray/Documents/Postdoc/CUBoulder/JWST_hackathon/Spectra_to_Transit/NIRCam/Stage_3_Output_Eureka/S3_2022-02-28_wasp39b_ap8_bg8_run11/
+Using ap=8, bg=8
+Copying S3 control file
+
+Found 4 data file(s) ending in calints.fits
+Reading file 1 of 4
+  Source position on detector is row 29.
+  Converting from brightness units (MJy/sr) to electrons
